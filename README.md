@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @nurnina
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning how to code using C#...
+- 📫 How to reach me : amanina3011@gmail.com ...
+
+<!---
+nurnina/nurnina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
